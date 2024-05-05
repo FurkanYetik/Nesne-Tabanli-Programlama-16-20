@@ -1,0 +1,18 @@
+[
+    {
+        "menu_item": "Su",
+        "price": 10.0
+    },
+    {
+        "menu_item": "Burger",
+        "price": 140.0
+    },
+    {
+        "menu_item": "Patates",
+        "price": 42.0
+    },
+    {
+        "menu_item": "Cheese Burger",
+        "price": 144.0
+    }
+]

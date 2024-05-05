@@ -1,0 +1,44 @@
+{
+  "Action": [
+    "Call Of Duty: Black Ops II",
+    "Assassin's Creed Valhalla",
+    "Counter Strike 2",
+    "Rainbow Six Siege"
+  ],
+  "Adventure": [
+    "Red Dead Redemption 2",
+    "Grand Theft Auto V",
+    "Rust",
+    "Sea Of Thieves"
+  ],
+  "Role-playing": [
+    "Final Fantasy",
+    "World of Warcraft",
+    "Zelda",
+    "Mass Effect"
+  ],
+  "Simulation": [
+    "Microsoft Flight Simulator",
+    "Euro Truck Simulator 2",
+    "Assetto Corsa Competizione",
+    "Forza Horizon 4"
+  ],
+  "Strategy": [
+    "Age of Empires",
+    "Hearts Of Iron 4",
+    "Chess",
+    "Civilization VI"
+  ],
+  "MMO": [
+    "Guild Wars 2",
+    "The Elder Scrolls Online",
+    "Destiny 2",
+    "Ultima Online"
+  ],
+  "Sandbox / open world games": [
+    "Minecraft",
+    "Skyrim",
+    "Fallout 4",
+    "Far Cry 4"
+  ]
+}

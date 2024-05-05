@@ -1,0 +1,22 @@
+{
+  "customers": [
+    {
+      "username": "furkan",
+      "password": "1234"
+    },
+    {
+      "username": "5",
+      "password": "5"
+    }
+  ],
+  "restaurants": [
+    {
+      "username": "1",
+      "password": "1"
+    },
+    {
+      "username": "2",
+      "password": "2"
+    }
+  ]
+}
